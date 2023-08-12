@@ -1,2 +1,2 @@
 # Movie-Recommendation
-TMDB Movie Recommendation System
+IMDB Movie Recommendation System
